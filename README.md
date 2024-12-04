@@ -1,4 +1,12 @@
 ## Hi there 👋
+![Snake animation](https://raw.githubusercontent.com/EUNASONG11/EUNASONG11/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
 
 <!--
 **EUNASONG11/EUNASONG11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
